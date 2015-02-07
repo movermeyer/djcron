@@ -1,0 +1,25 @@
+language: python
+
+sudo: false
+
+python:
+  - "2.7"
+  - "3.2"
+  - "3.3"
+  - "3.4"
+  - "pypy"
+
+install:
+  - python setup.py install
+  - pip install flake8
+
+script:
+  - flake8 --statistics --count setup.py djcron
+
+after_success:
+  - coveralls
+
+notifications:
+  email:
+    on_success: change
+    on_failure: change
