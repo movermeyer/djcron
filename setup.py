@@ -27,7 +27,7 @@ setup(
     description=APP.description,
     long_description=read_file('README.rst'),
     classifiers=[
-        'Development Status :: 5 - Production/Stable',
+        'Development Status :: 4 - Beta',
         'Programming Language :: Python :: 2.7',
         'Programming Language :: Python :: 3.2',
         'Programming Language :: Python :: 3.3',
@@ -46,7 +46,7 @@ setup(
     include_package_data=True,
     zip_safe=False,
     install_requires=[
-        'djcron-server',
-        'djcron-agent',
+        'djcron-server >= 0.0, < 0.1',
+        'djcron-agent >= 0.0, < 0.1',
     ],
 )

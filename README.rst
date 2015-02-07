@@ -9,24 +9,20 @@ This is just a commodity package to manage `DJCron Server`_ and `DJCron Agent`_ 
 Status
 ------
 
-=================  ===============  =================  ==========  ==============
-                   VERSION          DOWNLOADS          TESTS       COVERAGE
-=================  ===============  =================  ==========  ==============
-DJCron             |pip version|    |pip downloads|    |travis|    |coveralls|
------------------  ---------------  -----------------  ----------  --------------
-DJCron Server      |pip version s|  |pip downloads s|  |travis s|  |coveralls s|
------------------  ---------------  -----------------  ----------  --------------
-DJCron Agent       |pip version a|  |pip downloads a|  |travis a|  |coveralls a|
-=================  ===============  =================  ==========  ==============
+=================  ================  ==================  ===========  ==============
+PACKAGE            VERSION           DOWNLOADS           TESTS        COVERAGE
+=================  ================  ==================  ===========  ==============
+`DJCron`_          |pip version|     |pip downloads|     |travis|     |coveralls|
+`DJCron Server`_   |pip version s|   |pip downloads s|   |travis s|   |coveralls s|
+`DJCron Agent`_    |pip version a|   |pip downloads a|   |travis a|   |coveralls a|
+=================  ================  ==================  ===========  ==============
 
 
--- _`DJCron Project`: https://github.com/djcron-project
--- _`DJCron Server`: https://github.com/djcron-project/djcron-server
--- _`DJCron Server`: https://github.com/djcron-project/djcron-agent
+.. _`DJCron Project`: https://github.com/djcron-project
+.. _`DJCron Server`: https://github.com/djcron-project/djcron-server
+.. _`DJCron Agent`: https://github.com/djcron-project/djcron-agent
 
 
-
-.. DJCRON links
 
 .. |pip version| image:: https://pypip.in/v/djcron/badge.png
     :target: https://pypi.python.org/pypi/djcron
@@ -36,20 +32,18 @@ DJCron Agent       |pip version a|  |pip downloads a|  |travis a|  |coveralls a|
     :target: https://pypi.python.org/pypi/djcron
     :alt: Number of PyPI downloads
 
-.. |travis| image:: https://travis-ci.org/magmax/djcron.png
+.. |travis| image:: https://travis-ci.org/djcron-project/djcron.png
   :target: `Travis`_
   :alt: Travis results
 
-.. |coveralls| image:: https://coveralls.io/repos/magmax/djcron/badge.png
+.. |coveralls| image:: https://coveralls.io/repos/djcron-project/djcron/badge.png
   :target: `Coveralls`_
   :alt: Coveralls results_
-
 
 .. _`Travis`: https://travis-ci.org/djcron-project/djcron
 .. _`Coveralls`: https://coveralls.io/r/djcron-project/djcron
 
 
-.. DJCRON SERVER links
 
 .. |pip version s| image:: https://pypip.in/v/djcron-server/badge.png
     :target: https://pypi.python.org/pypi/djcron-server
@@ -59,20 +53,19 @@ DJCron Agent       |pip version a|  |pip downloads a|  |travis a|  |coveralls a|
     :target: https://pypi.python.org/pypi/djcron-server
     :alt: Number of PyPI downloads
 
-.. |travis s| image:: https://travis-ci.org/magmax/djcron-server.png
+.. |travis s| image:: https://travis-ci.org/djcron-project/djcron-server.png
   :target: `Travis`_
   :alt: Travis results
 
-.. |coveralls s| image:: https://coveralls.io/repos/magmax/djcron-server/badge.png
+.. |coveralls s| image:: https://coveralls.io/repos/djcron-project/djcron-server/badge.png
   :target: `Coveralls`_
   :alt: Coveralls results_
-
 
 .. _`Travis s`: https://travis-ci.org/djcron-project/djcron-server
 .. _`Coveralls s`: https://coveralls.io/r/djcron-project/djcron-server
 
 
-.. DJCRON AGENT links
+
 
 .. |pip version a| image:: https://pypip.in/v/djcron-agent/badge.png
     :target: https://pypi.python.org/pypi/djcron-agent
@@ -82,14 +75,13 @@ DJCron Agent       |pip version a|  |pip downloads a|  |travis a|  |coveralls a|
     :target: https://pypi.python.org/pypi/djcron-agent
     :alt: Number of PyPI downloads
 
-.. |travis a| image:: https://travis-ci.org/magmax/djcron-agent.png
+.. |travis a| image:: https://travis-ci.org/djcron-project/djcron-agent.png
   :target: `Travis`_
   :alt: Travis results
 
-.. |coveralls a| image:: https://coveralls.io/repos/magmax/djcron-agent/badge.png
+.. |coveralls a| image:: https://coveralls.io/repos/djcron-project/djcron-agent/badge.png
   :target: `Coveralls`_
   :alt: Coveralls results_
-
 
 .. _`Travis a`: https://travis-ci.org/djcron-project/djcron-agent
 .. _`Coveralls a`: https://coveralls.io/r/djcron-project/djcron-agent
