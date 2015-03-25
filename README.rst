@@ -5,6 +5,8 @@ This project is a component of the `DJCron Project`_, a Distributed Cron applica
 
 This is just a commodity package to manage `DJCron Server`_ and `DJCron Agent`_ as a unique package.
 
+If you use and like DJCron_, you can use the `DJCron Slides`_ to show it to the world. Please, improve it if you want to!
+
 
 Status
 ------
@@ -19,8 +21,10 @@ PACKAGE            VERSION           DOWNLOADS           TESTS        COVERAGE
 
 
 .. _`DJCron Project`: https://github.com/djcron-project
+.. _`DJCron`: https://github.com/djcron-project
 .. _`DJCron Server`: https://github.com/djcron-project/djcron-server
 .. _`DJCron Agent`: https://github.com/djcron-project/djcron-agent
+.. _`DJCron Slides`: https://github.com/djcron-project/djcron-slides
 
 
 
