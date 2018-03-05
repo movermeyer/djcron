@@ -28,11 +28,11 @@ PACKAGE            VERSION           DOWNLOADS           TESTS        COVERAGE
 
 
 
-.. |pip version| image:: https://pypip.in/v/djcron/badge.png
+.. |pip version| image:: https://img.shields.io/pypi/v/djcron.svg
     :target: https://pypi.python.org/pypi/djcron
     :alt: Latest PyPI version
 
-.. |pip downloads| image:: https://pypip.in/d/djcron/badge.png
+.. |pip downloads| image:: https://img.shields.io/pypi/dm/djcron.svg
     :target: https://pypi.python.org/pypi/djcron
     :alt: Number of PyPI downloads
 
@@ -49,11 +49,11 @@ PACKAGE            VERSION           DOWNLOADS           TESTS        COVERAGE
 
 
 
-.. |pip version s| image:: https://pypip.in/v/djcron-server/badge.png
+.. |pip version s| image:: https://img.shields.io/pypi/v/djcron-server.svg
     :target: https://pypi.python.org/pypi/djcron-server
     :alt: Latest PyPI version
 
-.. |pip downloads s| image:: https://pypip.in/d/djcron-server/badge.png
+.. |pip downloads s| image:: https://img.shields.io/pypi/dm/djcron-server.svg
     :target: https://pypi.python.org/pypi/djcron-server
     :alt: Number of PyPI downloads
 
@@ -71,11 +71,11 @@ PACKAGE            VERSION           DOWNLOADS           TESTS        COVERAGE
 
 
 
-.. |pip version a| image:: https://pypip.in/v/djcron-agent/badge.png
+.. |pip version a| image:: https://img.shields.io/pypi/v/djcron-agent.svg
     :target: https://pypi.python.org/pypi/djcron-agent
     :alt: Latest PyPI version
 
-.. |pip downloads a| image:: https://pypip.in/d/djcron-agent/badge.png
+.. |pip downloads a| image:: https://img.shields.io/pypi/dm/djcron-agent.svg
     :target: https://pypi.python.org/pypi/djcron-agent
     :alt: Number of PyPI downloads
 
